@@ -19,6 +19,7 @@ ________________________________________
 2.	Year (yr): The demand for bikes has been increasing over the years, indicating a growing trend in bike-sharing systems.
 3.	Weather Situation (weathersit): Clear weather conditions lead to higher demand, while poor weather (rain, snow) reduces rentals.
 4.	Working Day (workingday): Bike rentals are higher on working days, especially among registered users, as bikes are used for commuting.
+5.	Windspeed: Higher the windspeed, lower will be the bike rental count, in order to ensure a safe drive. From a coding perspective, we'd consider this for visualization and prediction     as it had the most significant value. Nevertheless, the correlation values for all the features are derived and they can be taken for testing and prediction purposes.
 ________________________________________
 ## Technologies Used
 •	Python - version 3.8
